@@ -6,6 +6,6 @@ More details of the project can be found here: https://trumakers.com/solutions/p
 
 ## Usage
 
-The binary can be imported into a licensed TIA portal V15 available from Siemens.
+The binary can be imported into a licensed TIA portal V16 available from Siemens.
 
 https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal/software.html
