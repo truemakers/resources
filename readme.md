@@ -2,7 +2,7 @@
 
 The Precision PLC Smoker is a fully functional code base for the Siemens S7-1200 PLC. This turns a standard traeger smoker into a precision smoking machine!
 
-More details of the project can be found here: https://trumakers.com/solution/precision-plc-controlled-smoker/
+More details of the project can be found here: https://trumakers.com/solutions/precision-plc-controlled-smoker/
 
 ## Usage
 
